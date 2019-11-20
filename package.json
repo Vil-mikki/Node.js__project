@@ -1,0 +1,25 @@
+{
+  "name": "node.js__project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vil-mikki/Node.js__project.git"
+  },
+  "author": "Violetta_Kochmareva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vil-mikki/Node.js__project/issues"
+  },
+  "homepage": "https://github.com/Vil-mikki/Node.js__project#readme"
+}
