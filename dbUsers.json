@@ -1,0 +1,24 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "name": "Sergey Kravchenko",
+            "password": "mySuperPass123"
+        },
+        {
+            "id": 2,
+            "name": "Violetta Kochmareva",
+            "password": "myMagicPass123"
+        },
+        {
+            "id": 3,
+            "name": "Natalia Melnikova",
+            "password": "myAwesomePass123"
+        },
+        {
+            "id": 4,
+            "name": "Super Admin",
+            "password": "myPowerfulPass123"
+        }
+    ]
+}
